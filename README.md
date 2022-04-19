@@ -10,3 +10,4 @@ npm install
 ```
 npm start
 ```
+#### For more details on how to setup multi-page HTML to PDF converter server read [https://www.ubercompute.com/blog/convert-multi-page-html-to-pdf-document/](https://www.ubercompute.com/blog/convert-multi-page-html-to-pdf-document/)
